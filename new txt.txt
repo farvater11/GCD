@@ -1,5 +1,10 @@
 first change
 second change
 
+HEAD
 test in master branch 
 test for marge
+
+added string in new_branch
+string for marge
+new_branch
